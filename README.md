@@ -5,34 +5,33 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
+    <a href="https://instagram.com/faizal.iso" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://dribbble.com/faizaljumaedi" > <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+    <a href="https://x.com/faizal_iso" > <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="https://saweria.co/faizaldaniel" > <img src="https://img.shields.io/badge/SAWERIA-faae2b?style=for-the-badge" /></a>
 </div>
 
 ###
 
 <div align="center">
-    <img src:"https://img.shields.io/static/v1?message=medibangpaint&logo=medibangpaint&label=&color=64bc61&logoColor=white&labelColor=&style=for-the-badge" height:"25" alt="Medibang Logo"/>
-    <img src:"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height:"25" alt:"HTML5"/>
-    <img src:"https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img src:"https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <h4>Daily use<h3>
+    <img src="https://img.shields.io/badge/Figma-005386?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Inkscape-4a4a4a?style=for-the-badge&logo=Inkscape&logoColor=white"/>
+    <img src="https://img.shields.io/static/v1?message=medibangpaint&logo=medibangpaint&label=&color=64bc61&logoColor=white&labelColor=&style=for-the-badge" alt="Medibang Logo"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=faizaliso.faizaliso&"  />
-</div>
+<h1 align="center">hallo internet 👋</h1>
 
 ###
 
-<h1 align="center">hi internet 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
@@ -47,3 +46,13 @@
 </picture>
 
 ###
+
+<p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
+<a href="blank" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://saweria.co/faizaldaniel"><img src="https://img.shields.io/badge/SAWERIA-faae2b?style=for-the-badge" height="42" /> </a>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=faizaliso.faizaliso&"  />
+</div>
