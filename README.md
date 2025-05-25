@@ -18,13 +18,13 @@
     <img src="https://img.shields.io/badge/Figma-005386?style=flat&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Inkscape-4a4a4a?style=flat&logo=Inkscape&logoColor=white"/>
     <img src="https://img.shields.io/static/v1?message=medibangpaint&logo=medibangpaint&label=&color=64bc61&logoColor=white&labelColor=&style=flat" alt="Medibang Logo"/>
+    <img src="https://img.shields.io/static/v1?message=Pixelorama&logo=pixelorama&label=&color=7B36ED&logoColor=white&labelColor=&style=flat" alt="Medibang Logo"/>
+    <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white"/>
+    <img src="https://img.shields.io/static/v1?message=GDScript&logo=godotengine&label=&color=7B36ED&logoColor=white&labelColor=&style=flat"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E"/>
-    <img src="https://img.shields.io/badge/Electron-2B2E3A?style=flat&logo=electron&logoColor=9FEAF9"/>
     <img src="https://img.shields.io/badge/next%20js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 </div>
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">UI designer and illustrator from isekai.<br> As natives of this 'isekai' realm, we've mastered the art of sharing resource just to survive in our beautifully chaotic democracy, where the so called 'public servants' strut around like they’re the final bosses of a game. <br/> <blockquote><b>⚠️Disclaimer</b> <br> If you interested with the resources I share here, you can use them according to the available license.</blockquote></p>
+<p align="left">UI designer and illustrator from isekai.<br> As natives of this 'isekai' realm, we've mastered the art of sharing resource just to survive in our beautifully chaotic democracy, where the so called 'public servants' strut around like they’re a king. <br/> <blockquote><b>⚠️Disclaimer</b> <br> If you interested with the resources I share here, you can use them according to the available license.</blockquote></p>
 
 ###
 
